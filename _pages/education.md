@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Eng. in Software Engineering, Tsinghua University, 2018-2021
+  * GPA: 3.84  Ranking: 3/115
 
+* B.Eng. in Information Security, Shanghai Jiao Tong University, 2014-2018
+  * GPA: 3.96  Ranking: 1/99
