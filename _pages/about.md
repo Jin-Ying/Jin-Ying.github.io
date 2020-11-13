@@ -14,6 +14,9 @@ I am a third-year master student in School of Software at Tsinghua University, a
 News
 ------
 [2020.07] One paper is accepted by BMVC-2020. 
+
 [2020.07] One paper is accepted by ECCV-2020.
+
 [2020.03] One paper is accepted by ICME-2020 as oral.
+
 [2019.09] One paper is accepted by NeurIPS-2019.
