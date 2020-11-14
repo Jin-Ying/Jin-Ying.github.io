@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year master student in School of Software at Tsinghua University, advised by [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) and [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ&hl=zh-CN). I recieved my Bachelor's Degree at Shanghai Jiao Tong University at 2018.
+I am a third-year master student in School of Software at Tsinghua University, advised by [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) and [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ&hl=zh-CN). I recieved my Bachelor's Degree at Shanghai Jiao Tong University at 2018. My current research interests include computer vision and machine learning. Click [here](https://Jin-Ying.github.io/files/resume.pdf) to see my updated CV.
 
 News
 ------
