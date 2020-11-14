@@ -6,7 +6,7 @@ excerpt: ''
 venue: "IEEE International Conference on Multimedia and Expo (ICME)"
 date: 2020-07-06
 paperurl: ''
-citation: 'Ying Jin, Yunbo Wang, Mingsheng Long, Jianmin Wang, Philip S. Yu, Jiaguang Sun. &quot;A Multi-Player Minimax Game For Generative Adversarial Networks&quot;.<i>IEEE International Conference on Multimedia and Expo</i> <b>ICME 2020</b>.'
+citation: '<b>Ying Jin</b>, Yunbo Wang, Mingsheng Long, Jianmin Wang, Philip S. Yu, Jiaguang Sun. &quot;A Multi-Player Minimax Game For Generative Adversarial Networks&quot;.<i>IEEE International Conference on Multimedia and Expo</i> <b>ICME 2020</b>.'
 ---
 
 [[pdf]](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multiplayer-gan-icme20.pdf)

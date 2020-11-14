@@ -6,7 +6,7 @@ excerpt: ''
 venue: "European Conference on Computer Vision (ECCV)"
 date: 2020-08-23
 paperurl: ''
-citation: 'Ying Jin, Ximei Wang, Mingsheng Long, Jianmin Wang. &quot;Minimum Class Confusion for Versatile Domain Adaptation&quot;.<i>European Conference on Computer Vision</i> <b>ECCV 2020</b>.'
+citation: '<b>Ying Jin</b>, Ximei Wang, Mingsheng Long, Jianmin Wang. &quot;Minimum Class Confusion for Versatile Domain Adaptation&quot;.<i>European Conference on Computer Vision</i> <b>ECCV 2020</b>.'
 ---
 
 [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660460.pdf)
