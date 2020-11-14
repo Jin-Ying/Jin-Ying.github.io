@@ -1,7 +1,7 @@
 ---
 title: "A Multi-Player Minimax Game For Generative Adversarial Networks"
 collection: publications
-permalink: /publications/DDL20
+permalink: /publications/ICME20
 excerpt: ''
 venue: "IEEE International Conference on Multimedia and Expo (ICME)"
 date: 2020-07-06
