@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year master student in School of Software at Tsinghua University, advised by [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) and [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ&hl=zh-CN). I recieved my Bachelor's Degree at Shanghai Jiao Tong University at 2018.
+I am a PhD student (since 2018) in School of Sofware at Tsinghua University, advised by [Prof. Yue Gao](http://gaoyue.org/cn_tsinghua/index). I received my Bachelor’s Degree at Tsinghua University. Click [here](https://zzz14.github.io/files/CV-Zizhao.pdf) to view my up-to-date CV.
 
-News
-------
-[2020.07] One paper is accepted by BMVC-2020. 
-
-[2020.07] One paper is accepted by ECCV-2020.
-
-[2020.03] One paper is accepted by ICME-2020 as oral.
-
-[2019.09] One paper is accepted by NeurIPS-2019.
+My current research interests include brain science, graph signal processing and complex network. Lately, I have been proposing novel tensor-based dynamic hypergraph learning framework for childhhood ASD automated diagnosis. 
