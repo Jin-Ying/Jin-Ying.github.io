@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ying Jin"
-  avatar           : "jinying-blue.jpg"
-  bio              : "Master Student, School of Software, Tsinghua University"
-  location         : "Beijing, China"
+  avatar           : "me.jpg"
+  bio              : "Phd Student, MMLab, The Chinese University of Hong Kong "
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RSqGfysAAAAJ&hl=zh-CN"

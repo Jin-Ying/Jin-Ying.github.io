@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year master student in School of Software at Tsinghua University, advised by [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) and [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ&hl=zh-CN). I recieved my Bachelor's Degree at Shanghai Jiao Tong University at 2018. My current research interests include computer vision and machine learning. Click [here](https://Jin-Ying.github.io/files/resume.pdf) to see my updated CV.
+I am a first-year phd student in [Multi-Media Lab (MMLab)](http://mmlab.ie.cuhk.edu.hk/) at CUHK, supervised by [Prof. Dahua Lin](https://scholar.google.com/citations?user=GMzzRRUAAAAJ&hl=zh-CN). I recieved my Master's Degree from School of Software,  Tsinghua University in 2021, advised by [Prof. Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/) and [Prof. Jianmin Wang](https://scholar.google.com/citations?user=MiovcboAAAAJ&hl=zh-CN), and my Bachelor's Degree at Shanghai Jiao Tong University at 2018. My current research interests include computer vision and machine learning. Click [here](https://Jin-Ying.github.io/files/resume.pdf) to see my updated CV.
 
-News
-------
-[2020.07] One paper is accepted by BMVC-2020. 
 
-[2020.07] One paper is accepted by ECCV-2020.
-
-[2020.03] One paper is accepted by ICME-2020 as oral.
-
-[2019.09] One paper is accepted by NeurIPS-2019.
