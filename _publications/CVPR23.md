@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/CVPR23
 excerpt: ''
 venue: "Computer Vision and Pattern Recognition Conference (CVPR)"
-date: 2022-03-25
+date: 2023-03-25
 paperurl: ''
 citation: '<b>Ying Jin</b>, Jiaqi Wang, Dahua Lin
 &quot;Multi-level Logit Distillation.&quot;.<i>Computer Vision and Pattern Recognition Conference</i> <b>CVPR 2023</b>.'
